@@ -1,0 +1,19 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "Project for educating myself on RESTful API practices and implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimchiLim/RESTful-API.git"
+  },
+  "author": "Kevin Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimchiLim/RESTful-API/issues"
+  },
+  "homepage": "https://github.com/KimchiLim/RESTful-API#readme"
+}
